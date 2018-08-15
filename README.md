@@ -7,4 +7,6 @@ React with Google, Faebook, Twitter Emojis
 3. run npm update
 3. run npm start
 
+see the react-with-emoji.png image for sample
+
 Thats All ....
